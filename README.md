@@ -43,11 +43,8 @@ The first to get 3 of their marks in a row (vertically, horizontally, or diagona
 If all 9 squares are filled without a winner, the game ends in a tie.
 
 📸 Screenshot
-(Include a screenshot or terminal output of a sample game here)
 
-markdown
-Copy
-Edit
+
    |   |   
 -----------
    |   |   
@@ -55,6 +52,7 @@ Edit
    |   |   
 
 Player X's turn:
+
 🧠 Learnings
 Game logic and condition handling
 
